@@ -27,3 +27,4 @@ Signal.prototype.update = function() {
     this.acc.mult(0);
 }
 ```
+![alt text](https://github.com/dmackenz/neural-network-flow-diagram/blob/master/example.png?raw=true)
