@@ -10,6 +10,8 @@ Each refresh of the HTML page creates new weighted connections and thus a new pr
 Open index.html in a browser to run.
 
 Signals are fed forward via Newton's law F = ma.
+
+This sketch was inspired by Daniel Shiffman's book "The Nature of Code".
 ```javascript
 // steering behaviour
 var start = network[current].connection.start;
